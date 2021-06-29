@@ -114,7 +114,6 @@ lint/tmp/
 .flutter-plugins-dependencies
 .packages
 .metadata
-.yaml
 .pub-cache/
 .pub/
 /build/
